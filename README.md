@@ -26,8 +26,12 @@ source .venv/bin/activate
 doobots-run
 ```
 
-Saída:
+O código de exemplo deste repositório retorna dois atributo de dados, sendo:
+- `greeting`: Contém `Ola, ${nome_recebido}!`
+- `fileContent`: Retorna o conteúdo do arquivo de entrada para exemplificar o uso dos arquivos
+
+Saída do código de exemplo:
 
 ```json
-{"greeting": "Ola, Matheus!"}
+{"data": {"greeting": "Ola, Matheus!", "fileContent": "Hello World!"}, "files": []}
 ```

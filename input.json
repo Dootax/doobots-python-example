@@ -1,3 +1,11 @@
 {
-    "name": "Matheus"
+    "data": {
+        "name": "Matheus"
+    },
+    "files": [
+        {
+            "fileName": "teste.txt",
+            "base64": "SGVsbG8gV29ybGQh"
+        }
+    ]
 }
