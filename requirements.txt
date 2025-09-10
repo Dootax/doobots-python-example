@@ -1,1 +1,1 @@
-doobots @ git+https://github.com/dootax/doobots-python@master
+doobots>=1.0.0
