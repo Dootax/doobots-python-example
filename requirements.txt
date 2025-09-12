@@ -1,1 +1,2 @@
-doobots>=1.0.0
+doobots>=1.0.1
+pytest>=8.4.2
