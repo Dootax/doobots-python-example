@@ -41,3 +41,13 @@ Saída do código de exemplo:
 ```json
 {"data": {"greeting": "Ola, Matheus!", "fileContent": "Hello World!"}, "files": []}
 ```
+
+### Empacotar
+
+Para empacotar seu projeto, você pode usar o comando:
+
+```shell
+doobots-package
+```
+
+Ele gerará um arquivo `.zip` na raiz do seu projeto que pode ser enviado para o DooBots.
